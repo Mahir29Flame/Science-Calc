@@ -209,6 +209,9 @@ class ScienceCalc(App):
         self.query_one("#input", Input).value = ""
         self.query_one("#result", Static).update("0")
 
-if __name__ == "__main__":
+def run_app():
     app = ScienceCalc()
     app.run()
+
+if __name__ == "__main__":
+    run_app()
