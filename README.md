@@ -19,14 +19,31 @@ A sleek, powerful, and fully responsive **Scientific Calculator** built with Pyt
   - `Ctrl + C` to quit
 - 🧠 **Smart Engine**: Built-in error handling and precision rounding.
 
-## 🚀 Getting Started
+## 🚀 Installation
 
-### Prerequisites
+You can install **ScienceCalc** directly from [PyPI](https://pypi.org/project/science-calc/):
 
-- Python 3.8+
-- [Textual](https://textual.textualize.io/) library
+### Method 1: Global (Recommended)
+Use [pipx](https://github.com/pypa/pipx) to install it in an isolated environment so it's available everywhere:
+```bash
+pipx install science-calc
+```
 
-### Installation
+### Method 2: Standard Pip
+```bash
+pip install science-calc
+```
+
+## 🎮 How to Run
+
+Once installed, simply type the following in your terminal:
+```bash
+science-calc
+```
+
+## 🛠️ Development Setup
+
+If you want to contribute or run the latest source code:
 
 1. **Clone the repository**:
    ```bash
@@ -34,22 +51,10 @@ A sleek, powerful, and fully responsive **Scientific Calculator** built with Pyt
    cd Science-Calc
    ```
 
-2. **Install dependencies**:
+2. **Install with uv**:
    ```bash
-   pip install textual
+   uv sync
    ```
-
-### Running the App
-
-Execute the main script:
-```bash
-python main.py
-```
-
-For development mode (with live reload):
-```bash
-textual run --dev main.py
-```
 
 ## 🛠️ Built With
 
