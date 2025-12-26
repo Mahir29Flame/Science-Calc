@@ -1,4 +1,4 @@
-from Calculator import calc
+from .Calculator import calc
 from textual.app import App, ComposeResult
 from textual.widgets import Button, Input, Static, Header, Footer
 from textual.containers import Grid, Vertical, Container
