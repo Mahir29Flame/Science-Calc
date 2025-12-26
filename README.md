@@ -2,7 +2,7 @@
 
 A sleek, powerful, and fully responsive **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
 
-![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png) *(Note: Add a real screenshot here once available!)*
+![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png)
 
 ## ✨ Features
 
