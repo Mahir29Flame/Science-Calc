@@ -2,6 +2,7 @@
 
 A sleek, powerful, and fully responsive **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/science-calc?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/science-calc)
 ![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png)
 
 ## ✨ Features
@@ -67,3 +68,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 Created with ❤️ by [Mahir29Flame](https://github.com/Mahir29Flame)
+Plz ⭐ this Repo if u liked it :)
+repo link [Science-Calc](https://github.com/Mahir29Flame/Science-Calc) (if you are in PyPI)
