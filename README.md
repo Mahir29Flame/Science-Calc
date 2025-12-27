@@ -1,13 +1,13 @@
 # 🧪 ScienceCalc
 
-A sleek, powerful, and fully responsive **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
+A sleek, powerful, and fully responsive basic **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/science-calc?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/science-calc)
 ![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png)
 
 ## ✨ Features
 
-- 📱 **Full-Screen UI**: A responsive layout that adapts to any terminal size.
+- 📱 **Dynamic-Screen UI**: A responsive layout that adapts to any terminal size.
 - 🎨 **Modern Aesthetics**: Sleek dark mode palette (`#0f172a`, `#1e293b`) with vibrant highlights (`#38bdf8`).
 - 🔢 **Scientific Functions**:
   - Trigonometry: `sin`, `cos`, `tan`
@@ -15,10 +15,11 @@ A sleek, powerful, and fully responsive **Scientific Calculator** built with Pyt
   - Constants: `π` (pi), `e`
   - Algebra: Square root (`√`), Powers (`^`), Percentages (`%`)
 - ⌨️ **Keyboard Optimized**:
+  - Use **Number-Keys** to type calculations
   - `Enter` to calculate
   - `Ctrl + D` to clear
   - `Ctrl + C` to quit
-- 🧠 **Smart Engine**: Built-in error handling and precision rounding.
+- 🧠 **Smart(ish) Engine**: Built-in error handling and precision rounding.
 
 ## 🚀 Installation
 
@@ -73,4 +74,4 @@ Feel free to open an Issue, submit a Pull Request, or reach out to discuss new i
 ---
 Created with ❤️ by [Mahir29Flame](https://github.com/Mahir29Flame)
 Plz ⭐ this Repo if u liked it :)
-repo link [Science-Calc](https://github.com/Mahir29Flame/Science-Calc) (if you are in PyPI)
+repo link- [Science-Calc](https://github.com/Mahir29Flame/Science-Calc) (if you are in PyPI)
