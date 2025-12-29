@@ -25,13 +25,21 @@ A sleek, powerful, and fully responsive basic **Scientific Calculator** built wi
 
 You can install **ScienceCalc** directly from [PyPI](https://pypi.org/project/science-calc/):
 
-### Method 1: Global (Recommended)
-Use [pipx](https://github.com/pypa/pipx) to install it in an isolated environment so it's available everywhere:
+### Global (Recommended)
+Use UV (Fast, Global):
+```bash
+uv tool install science-calc
+```
+### pipx (Standard):
 ```bash
 pipx install science-calc
 ```
+### UVX (If You just wanna test)
+```bash
+uvx science-calc
+```
 
-### Method 2: Standard Pip
+### Standard Pip (not recomended)
 ```bash
 pip install science-calc
 ```
