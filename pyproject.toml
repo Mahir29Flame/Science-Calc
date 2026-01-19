@@ -4,7 +4,7 @@ version = "0.1.2"
 description = "A sleek, powerful Scientific Calculator with a modern TUI."
 readme = "README.md"
 authors = [
-    { name = "Mahir29Flame" }
+    { name = "Mahir29Flame", email = "njprograms29@gmail.com" }
 ]
 requires-python = ">=3.8"
 dependencies = [
