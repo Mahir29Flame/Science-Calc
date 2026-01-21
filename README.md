@@ -2,7 +2,7 @@
 
 A sleek, powerful, and fully responsive basic **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
 
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/science-calc?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/science-calc)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/science-calc?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/science-calc)\
 ![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png)
 
 ## ✨ Features
@@ -25,13 +25,21 @@ A sleek, powerful, and fully responsive basic **Scientific Calculator** built wi
 
 You can install **ScienceCalc** directly from [PyPI](https://pypi.org/project/science-calc/):
 
-### Method 1: Global (Recommended)
-Use [pipx](https://github.com/pypa/pipx) to install it in an isolated environment so it's available everywhere:
+### Global (Recommended)
+Use UV (Fast, Global):
+```bash
+uv tool install science-calc
+```
+### pipx (Standard):
 ```bash
 pipx install science-calc
 ```
+### UVX (If You just wanna test)
+```bash
+uvx science-calc
+```
 
-### Method 2: Standard Pip
+### Standard Pip (not recomended)
 ```bash
 pip install science-calc
 ```
