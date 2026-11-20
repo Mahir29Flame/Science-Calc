@@ -75,11 +75,7 @@ If you want to contribute or run the latest source code:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 ---
-🤝 Contribute & Evolve
 
-We are actively looking to expand this ecosystem with new UI themes, advanced agent features, and hardware integrations. Whether you want to refine this Application.
-Feel free to open an Issue, submit a Pull Request, or reach out to discuss new ideas. Let’s build the future of hybrid AI agents together.
----
 Created with ❤️ by [Mahir29Flame](https://github.com/Mahir29Flame)
 Plz ⭐ this Repo if u liked it :)
 repo link- [Science-Calc](https://github.com/Mahir29Flame/Science-Calc) (if you are in PyPI)
