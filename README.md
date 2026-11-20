@@ -1,6 +1,6 @@
 # 🧪 ScienceCalc
-
-A sleek, powerful, and fully responsive basic **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
+###### I am aware that this is really bad! it was made when I was learning python - so...
+A sleek, dumb, and fully responsive basic **Scientific Calculator** built with Python and [Textual](https://textual.textualize.io/). Designed for the terminal, featuring a modern glassmorphism-inspired aesthetic and a robust calculation engine.
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/science-calc?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/science-calc)\
 ![ScienceCalc Preview](https://raw.githubusercontent.com/Mahir29Flame/Science-Calc/main/preview.png)
